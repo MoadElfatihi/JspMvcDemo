@@ -14,7 +14,7 @@
  	CreditModel creditModel = (CreditModel) request.getAttribute("model");
  %>
  
- <form action="/Credit" method="post">
+ <form action="Credit" method="POST">
  	<table>
  		<tr>
  			<td>Montant</td>
